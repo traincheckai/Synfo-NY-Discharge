@@ -1,6 +1,6 @@
 # NY SPARCS Hospital Discharge - Synthetic Data Generation
 
-Welcome to the repository for synthetic data generation based on [New York's SPARCS Hospital Discharge Records](https://health.data.ny.gov/). Our goal here is to showcase how synthetic data can enhance the capabilities of machine learning models.
+Welcome to the repository for synthetic data generation based on [New York's SPARCS Hospital Discharge Records](ttps://health.data.ny.gov/)). Our goal here is to showcase how synthetic data can enhance the capabilities of machine learning models.
 
 ## 📌 Motivation
 
@@ -18,12 +18,14 @@ Synthetic data is a game-changer in the realm of machine learning. By generating
 This Jupyter notebook walks you through the initial steps in our data preprocessing pipeline. Here, we detail the process of cleaning the SPARCS Hospital Discharge Records, ensuring data quality and consistency.
 
 ### [Encode NY Data](synfo-ny-discharge/encode_ny_data.ipynb)
-In this notebook, we delve into encoding techniques tailored for the dataset. Encoding is a crucial step in preparing the data for synthetic data generation, ensuring that the generated data maintains similar properties as the original.
+In this notebook, we delve into encoding techniques tailored for the dataset. Encoding is crucial in preparing the data for synthetic data generation, ensuring that the generated data maintains properties similar to the original.
 
 ### [NY Synfo Tutorial](synfo-ny-discharge/ny-synfo-tutorial.ipynb)
 A comprehensive guide that takes you step-by-step through the process of synthetic data generation for the NY SPARCS data. Ideal for both beginners and experienced practitioners.
 
 ## 📂 Data Files
+
+[New York's SPARCS Hospital Discharge Record data from 2009 to 2021 can be obtained from the [Health Data NY Catalog](https://health.data.ny.gov/browse?q=Hospital%20Inpatient%20Discharges%20(SPARCS%20De-Identified)%3A&sortBy=relevance). 
 
 ### [2018_I9gem.txt](synfo-ny-discharge/2018_I9gem.txt)
 This text file contains [ICD-9 to ICD-10 mappings](https://icd.codes/convert/icd9-to-icd10-cm), an essential tool for understanding the conversion between these medical coding systems.
@@ -33,8 +35,8 @@ Updated geographical data linked with the NY SPARCS records. This dataset provid
 
 ## 📜 License
 
-This project is licensed, ensuring open source availability while protecting against unauthorized use or modification. Kindly refer to the [LICENSE](LICENSE) file for a detailed description of terms and conditions.
+This project is licensed, ensuring open source availability while protecting against unauthorized use or modification. Please take a look at the [LICENSE](LICENSE) file for a detailed description of terms and conditions.
 
 ---
 
-Should you have any questions or suggestions, feel free to contribute to this project or reach out to our team. We are always eager to enhance and expand upon our work.
+If you have any questions or suggestions, feel free to contribute to this project or contact our team. We are always eager to enhance and expand upon our work.
