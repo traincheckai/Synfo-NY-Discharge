@@ -1,6 +1,6 @@
 # NY SPARCS Hospital Discharge - Synthetic Data Generation
 
-This repository is dedicated to large-scale synthetic data generation from New York's SPARCS Hospital Discharge Records.
+This repository is dedicated to large-scale synthetic data generation from [New York's SPARCS Hospital Discharge Records](https://health.data.ny.gov/).
 
 ## Contents
 
