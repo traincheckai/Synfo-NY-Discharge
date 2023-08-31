@@ -7,6 +7,23 @@ Welcome to the repository for synthetic data generation based on [New York's SPA
 
 Synthetic data is a game-changer in the realm of machine learning. By generating high-quality synthetic data, we can train large-scale ML systems which, interestingly, can often perform more effectively on real-world data compared to models trained and tested solely on actual data. This approach minimizes overfitting, diversifies the training regime, and can provide robustness to the machine learning systems, making them more adaptable to a variety of scenarios.
 
+## 📊 Progress
+
+| Year | Status          |
+|------|-----------------|
+| 2009 | ✔️ Completed    |
+| 2010 | ⏳ In Progress  |
+| 2011 | ⏳ In Progress  |
+| 2012 | ⏳ In Progress  |
+| 2013 | ⏳ In Progress  |
+| 2014 | ⏳ In Progress  |
+| 2015 | ⏳ In Progress  |
+| 2016 | ⏳ In Progress  |
+| 2017 | ⏳ In Progress  |
+| 2018 | ⏳ In Progress  |
+| 2019 | ⏳ In Progress  |
+| 2020 | ⏳ In Progress  |
+| 2021 | ⏳ In Progress  |
 
 ## 📘 Contents
 
@@ -42,8 +59,10 @@ Updated geographical data linked with the NY SPARCS records. This dataset provid
 
 This project is licensed, ensuring open source availability while protecting against unauthorized use or modification. Please take a look at the [LICENSE](LICENSE) file for a detailed description of terms and conditions.
 
+## 👥 Contribution
+
+Contributions are what make the open-source community such an inspiring place for discovery, learning, and innovation. We welcome your contributions! Whether it's fixing bugs, enhancing documentation, proposing new features, or helping out in any other way, every contribution counts.
+
 ---
-
-If you have any questions or suggestions, feel free to contribute to this project or contact our team. We are always eager to enhance and expand upon our work.
-
-We thank the New York State Department of Health for releasing these datasets. **Note**: The New York State Department of Health makes no representation, warranty or guarantee relating to the data or analyses derived from these data.
+## New York Department of Health Data Use Policy
+We thank the New York Department of Health for releasing these datasets. **Note**: The New York State Department of Health makes no representation, warranty or guarantee relating to the data or analyses derived from these data. For more information on the New York Department of Health Data Use Policy, please see their [statement](https://www.health.ny.gov/about/data_use.htm).
