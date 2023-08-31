@@ -14,21 +14,21 @@ Synthetic data is a game-changer in the realm of machine learning. By generating
 
 ## 📔 Notebooks
 
-### [Clean NY Data](clean_ny_data.ipynb)
+### [Clean NY Data](synfo-ny-discharge/clean_ny_data.ipynb)
 This Jupyter notebook walks you through the initial steps in our data preprocessing pipeline. Here, we detail the process of cleaning the SPARCS Hospital Discharge Records, ensuring data quality and consistency.
 
-### [Encode NY Data](encode_ny_data.ipynb)
+### [Encode NY Data](synfo-ny-discharge/encode_ny_data.ipynb)
 In this notebook, we delve into encoding techniques tailored for the dataset. Encoding is a crucial step in preparing the data for synthetic data generation, ensuring that the generated data maintains similar properties as the original.
 
-### [NY Synfo Tutorial](ny-synfo-tutorial.ipynb)
+### [NY Synfo Tutorial](synfo-ny-discharge/ny-synfo-tutorial.ipynb)
 A comprehensive guide that takes you step-by-step through the process of synthetic data generation for the NY SPARCS data. Ideal for both beginners and experienced practitioners.
 
 ## 📂 Data Files
 
-### [2018_I9gem.txt](2018_I9gem.txt)
+### [2018_I9gem.txt](synfo-ny-discharge/2018_I9gem.txt)
 This text file contains [ICD-9 to ICD-10 mappings](https://icd.codes/convert/icd9-to-icd10-cm), an essential tool for understanding the conversion between these medical coding systems.
 
-### [geo-updated.csv](geo-updated.csv)
+### [geo-updated.csv](synfo-ny-discharge/geo-updated.csv)
 Updated geographical data linked with the NY SPARCS records. This dataset provides details on Operating Certificate Numbers, assisting in the geographic location mapping of hospitals and care facilities.
 
 ## 📜 License
