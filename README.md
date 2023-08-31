@@ -45,3 +45,5 @@ This project is licensed, ensuring open source availability while protecting aga
 ---
 
 If you have any questions or suggestions, feel free to contribute to this project or contact our team. We are always eager to enhance and expand upon our work.
+
+We thank the New York State Department of Health for releasing these datasets. **Note**: The New York State Department of Health makes no representation, warranty or guarantee relating to the data or analyses derived from these data.
