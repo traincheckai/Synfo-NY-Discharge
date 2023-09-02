@@ -9,21 +9,11 @@ Synthetic data is a game-changer in the realm of machine learning. By generating
 
 ## 📊 Progress
 
-| Year | Status          |
+| Item | Status          |
 |------|-----------------|
-| 2009 | ✔️ Completed    |
-| 2010 | ⏳ In Progress  |
-| 2011 | ⏳ In Progress  |
-| 2012 | ⏳ In Progress  |
-| 2013 | ⏳ In Progress  |
-| 2014 | ⏳ In Progress  |
-| 2015 | ⏳ In Progress  |
-| 2016 | ⏳ In Progress  |
-| 2017 | ⏳ In Progress  |
-| 2018 | ⏳ In Progress  |
-| 2019 | ⏳ In Progress  |
-| 2020 | ⏳ In Progress  |
-| 2021 | ⏳ In Progress  |
+| Synthetic Data Generation Models | ✔️ Completed    |
+| Data Specification Paper | ⏳ In Progress  |
+| Risk Prediction Paper | ⏳ In Progress  |
 
 ## 📘 Contents
 
