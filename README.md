@@ -11,7 +11,7 @@ Synthetic data is a game-changer in the realm of machine learning. By generating
 
 | Item | Status          |
 |------|-----------------|
-| Models | ✔️ Completed    |
+| Synthetic Data Generation Models | ✔️ Completed    |
 | Data Specification Paper | ⏳ In Progress  |
 | Risk Prediction Paper | ⏳ In Progress  |
 
